@@ -109,10 +109,6 @@ The training process included:
 4. Tokenization with special handling for input and target sequences
 5. Fine-tuning using the Hugging Face Trainer API
 
-## Model Performance
-
-After training for 3 epochs, the model achieved the following evaluation metrics:
-- [Add your evaluation metrics here, e.g., ROUGE score, BLEU score, etc.]
 
 ## Future Improvements
 
@@ -132,9 +128,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## License
-
-[Specify your license here]
 
 ## Acknowledgements
 
